@@ -5,3 +5,4 @@ description = "A CLI to install and update any single-binary CLI tools from GitH
 requires-python = ">=3.10"
 # drop an unused branch
 # handle the edge case from the last release
+# drop an unused branch
